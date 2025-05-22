@@ -7,26 +7,32 @@
 ## 🚀 Projects
 
 ### 🏋️‍♀️ [SchedUREC](https://github.com/rachelmcco/o-SchedUREC)
-A full-stack Django app that lets JMU students browse and save UREC fitness classes, then sync to their calendars.
+A full-stack Django application for JMU students to browse and save UREC fitness classes, with calendar integration.
 - 🔐 Google OAuth login
 - 🔄 Live Selenium scraping
 - 🗓 .ics calendar integration
 - 🎨 Bootstrap with JMU colors
-- 📍[Live App](https://schedurec.me)
+- 📍 [Live App](https://schedurec.me)
 
----
-
-### 🏊 ForScore Dive Scoring App
-A Java-based GUI for scoring dive meets with auto-calculation.
+### 🏊 [ForScore Dive Scoring App](https://github.com/rachelmcco/ForScore-Dive-Scoring-App)
+A Java-based GUI application to calculate and track dive meet scores.
 - 🖥️ Swing-based interface
 - 🧮 Custom logic for judges’ scoring
 
----
-
-### 💻 Shell & DHCP Protocol Sim (C)
-Command-line shell with custom piping and a DHCP protocol simulator.
+### 💻 [Shell & DHCP Protocol Simulation](https://github.com/rachelmcco/o-Shell-DHCP-Protocol-Simulation-)
+A command-line shell with custom piping and a DHCP protocol simulator.
 - 🔧 Systems-level development
 - 💡 IP allocation simulation
+
+### 🧮 [Complex Number Calculator](https://github.com/rachelmcco/Complex-Number-Calculator)
+A Java-based GUI application for performing operations on complex numbers.
+- 🖥️ Swing-based interface
+- ➕ Supports addition, subtraction, multiplication, and division of complex numbers
+
+### 🐝 [Swarm Simulation](https://github.com/rachelmcco/Swarm-Simulation)
+An agent-based simulation modeling swarm behavior using Python.
+- 🧠 Implements flocking algorithms
+- 📊 Visualizes emergent behaviors of autonomous agents
 
 ---
 
