@@ -1,0 +1,34 @@
+# 👋 Hi, I'm Rachel McCoy!
+
+🎓 CS Graduate from JMU • 💻 Incoming M.Eng. at Virginia Tech • 🏊 D1 NCAA Athlete • 👩‍💻 Aspiring Software Engineer
+
+---
+
+## 🚀 Projects
+
+### 🏋️‍♀️ [SchedUREC](https://github.com/rachelmcco/o-SchedUREC)
+A full-stack Django app that lets JMU students browse and save UREC fitness classes, then sync to their calendars.
+- 🔐 Google OAuth login
+- 🔄 Live Selenium scraping
+- 🗓 .ics calendar integration
+- 🎨 Bootstrap with JMU colors
+- 📍[Live App](https://schedurec.me)
+
+---
+
+### 🏊 ForScore Dive Scoring App
+A Java-based GUI for scoring dive meets with auto-calculation.
+- 🖥️ Swing-based interface
+- 🧮 Custom logic for judges’ scoring
+
+---
+
+### 💻 Shell & DHCP Protocol Sim (C)
+Command-line shell with custom piping and a DHCP protocol simulator.
+- 🔧 Systems-level development
+- 💡 IP allocation simulation
+
+---
+
+## 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/rachel-mccoy) • [Resume](https://rachelmcco.github.io) • 📬 Rachelmccoy@comcast.net
